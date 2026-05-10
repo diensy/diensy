@@ -1,44 +1,18 @@
-```md
-# Hi 👋 I'm Dinesh Kumar Sahoo
+# 💫 About Me:
+# Hi there 👋 I'm Dinesh Kumar Sahoo<br><br>💻 MERN Stack Developer from India  <br>🚀 Passionate about building scalable and user-friendly web applications  <br>🎯 Currently working as a Junior Software Developer at RIXO SYSTEM IT SOLUTIONS  <br>📚 Pursuing MCA at United School of Business Management, Bhubaneswar  <br>⚡ Love creating modern UI/UX, CMS platforms, and full-stack applications  <br><br>---<br><br>## 👨‍💻 About Me<br><br>- 🔭 Currently working on CMS & Streaming Platforms<br>- 🌱 Learning Advanced Backend Architecture & Cloud Technologies<br>- 👨‍💻 Experienced in MERN Stack Development<br>- 🧠 Strong interest in scalable systems and modern frontend animations<br>- ⚡ Skilled in React.js, Node.js, Express.js, MongoDB, PostgreSQL<br>- 🎨 Love working with Tailwind CSS, Framer Motion, and Three.js<br>- 🛠️ Building Inventory Management & Media Streaming Platforms<br><br>---<br><br>## 🚀 Tech Stack<br><br>### Frontend<br>- React.js<br>- Next.js<br>- HTML5<br>- CSS3<br>- Tailwind CSS<br>- JavaScript<br><br>### Backend<br>- Node.js<br>- Express.js<br><br>### Database<br>- MongoDB<br>- PostgreSQL<br><br>### Tools<br>- Git<br>- GitHub<br>- Postman<br>- REST APIs<br><br>---<br><br>## 📌 Featured Projects<br><br>### 🎬 Orocast Web Application<br>CMS + Streaming Platform with:<br>- Roles & Permissions<br>- Team & Customer Management<br>- Media Library<br>- Ticketing System<br>- Coupon Generation<br><br>### 📦 Inventory Management System<br>- Multi-Tenant Architecture<br>- Stock Management<br>- Purchase Orders<br>- Compliance Tracking<br><br>### 📚 Podixa<br>Digital audiobook & PDF platform with:<br>- Audio Streaming<br>- PDF Reader<br>- Content Management<br><br>---<br><br>## 📫 Connect With Me<br><br>- LinkedIn: www.linkedin.com/in/dinesh-kumar-sahoo-494a80290/<br>- Portfolio: https://iam-dineshsahoo.vercel.app/<br>- Email: dineshsahoo702@gmail.com
 
-### MERN Stack Developer from India 🚀
 
-Passionate about building scalable web applications, modern UI/UX, and full-stack platforms.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dinesh-kumar-sahoo-494a80290/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshsahoo702@gmail.com) 
 
----
-
-## 👨‍💻 About Me
-
-- 💼 Junior Software Developer at **RIXO SYSTEM IT SOLUTIONS**
-- 🎓 Pursuing MCA at **United School of Business Management**
-- 🌱 Learning **Cloud & Advanced Backend Architecture**
-- ⚡ Skilled in **React.js, Node.js, Express.js, MongoDB & PostgreSQL**
-- 🎨 Love creating animations using **Framer Motion & Three.js**
-- 🛠️ Building CMS, Streaming & Inventory Platforms
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=diensy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=diensy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=diensy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=diensy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=diensy&theme=tokyonight&hide_border=true)
-
-![](https://streak-stats.demolab.com/?user=diensy&theme=tokyonight&hide_border=true)
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/dinesh-kumar-sahoo-494a80290
-- 🌐 Portfolio: https://iam-dineshsahoo.vercel.app
-- 📧 Email: dineshsahoo702@gmail.com
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
