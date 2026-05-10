@@ -1,10 +1,9 @@
 ```md
-<h1 align="center">Hi 👋, I'm Dinesh Kumar Sahoo</h1>
-<h3 align="center">MERN Stack Developer from India 🚀</h3>
+# Hi 👋 I'm Dinesh Kumar Sahoo
 
-<p align="center">
+### MERN Stack Developer from India 🚀
+
 Passionate about building scalable web applications, modern UI/UX, and full-stack platforms.
-</p>
 
 ---
 
@@ -21,64 +20,25 @@ Passionate about building scalable web applications, modern UI/UX, and full-stac
 
 ## 🚀 Tech Stack
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
-
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🎬 Orocast
-CMS + Streaming Platform with:
-- Roles & Permissions
-- Team Management
-- Media Library
-- Ticketing System
-
-### 📦 Inventory Management System
-- Multi-Tenant Architecture
-- Stock Management
-- Purchase Orders
-- Compliance Tracking
-
-### 📚 Podixa
-Digital Audiobook & PDF Platform
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=diensy&theme=tokyonight&hide_border=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=diensy&theme=tokyonight&hide_border=true)
 
 ![](https://streak-stats.demolab.com/?user=diensy&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diensy&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/dinesh-kumar-sahoo-494a80290">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:dineshsahoo702@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://iam-dineshsahoo.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
+- 💼 LinkedIn: https://linkedin.com/in/dinesh-kumar-sahoo-494a80290
+- 🌐 Portfolio: https://iam-dineshsahoo.vercel.app
+- 📧 Email: dineshsahoo702@gmail.com
 ```
